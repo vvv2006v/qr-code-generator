@@ -1,5 +1,5 @@
 # qr-code-generator
-*The program that generates QR code by link*
+*Program that generates QR code by link*
 
 Install two libraries:
 ```
