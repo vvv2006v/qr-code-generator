@@ -5,7 +5,7 @@
 
 <img src="qr-code.png" width=500 />
 
-Install two libraries:
+Install libs:
 ```
 pip install qrcode
 pip install image
